@@ -19,7 +19,7 @@ const RootQuery = new GraphQLObjectType({
       args: { id: { type: GraphQLString } },
       resolve(parent, args) {
         args.id;
-        //  code to get data from db / other source
+        //  code to get data from db/other source
       },
     },
   }),
