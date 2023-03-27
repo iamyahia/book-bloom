@@ -1,0 +1,17 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "name": "json-server",
+      "genre": "server",
+      "authorId": "typicode"
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "name": "yahia",
+      "age": 0
+    }
+  ]
+}
