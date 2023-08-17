@@ -1,4 +1,7 @@
-## test this version with node -v < 7
+## Book Information system using GraphQL
+in this repository, we are creating a nice template to showing book information with graphQl technology.
+
+>test this version with node -v < 7
 
 ## we use:
 
